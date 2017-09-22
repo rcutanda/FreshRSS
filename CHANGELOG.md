@@ -14,6 +14,7 @@
 * I18n
 	* Korean [#1578](https://github.com/FreshRSS/FreshRSS/pull/1578)
 	* Fix month abbreviations [#1560](https://github.com/FreshRSS/FreshRSS/issues/1560)
+	* Spanish [#1631] (https://github.com/FreshRSS/FreshRSS/pull/1631/) 
 * Bug fixing
 	* Fix API compatibility bug between PostgreSQL and EasyRSS [#1603](https://github.com/FreshRSS/FreshRSS/pull/1603)
 	* Fix PostgreSQL error when adding entries with duplicated GUID [#1610](https://github.com/FreshRSS/FreshRSS/issues/1610)
@@ -54,7 +55,6 @@
 	* Simplified Chinese [#1541](https://github.com/FreshRSS/FreshRSS/pull/1541)
 	* Improve English [#1465](https://github.com/FreshRSS/FreshRSS/pull/1465)
 	* Improve Dutch [#1559](https://github.com/FreshRSS/FreshRSS/pull/1559)
-	* Added Spanish language [#1631] (https://github.com/FreshRSS/FreshRSS/pull/1631/) 
 * Security
 	* Do not require write access to check availability of new versions [#1450](https://github.com/FreshRSS/FreshRSS/issues/1450)
 * Misc.
